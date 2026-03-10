@@ -10,8 +10,11 @@ The goal is to improve **problem-solving skills**, strengthen **algorithmic thin
 #  Purpose of this Repository
 
 • Practice DSA problems regularly
+
 • Build strong logical thinking
+
 • Prepare for coding interviews
+
 • Maintain a structured collection of solved problems
 
 ---
