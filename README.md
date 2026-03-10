@@ -23,7 +23,7 @@ B.Tech CSE (Data Science & AI)
 
 ---
 
-# 💻 Programming Languages Used
+# Programming Languages Used
 
 * C++
 ---
@@ -50,7 +50,7 @@ Each file contains:
   
 ---
 
-# 🧠Learning Approach
+# Learning Approach
 
 For each problem I follow these steps:
 
